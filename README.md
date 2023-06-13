@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **my website**
 
-- 🌱 I’m currently learning **HTMl,java**
+- 🌱 I’m currently learning **HTMl,Css,Javascript,Java**
 
-- 💬 Ask me about **HTML**
+- 💬 Ask me about **HTMl,Css,Javascript,Java**
 
 - 📫 How to reach me **syedtouhid1458@gmail.com**
 
